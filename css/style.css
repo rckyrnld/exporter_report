@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin:0px;
+	padding:0px 0px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#4d4d4d;
+}
+
+a {
+	color:#000;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#999;
+}
+
+#header a {
+	color:#CCC;
+	text-decoration:none;
+}
+
+#header a:hover {
+	color:#FFF;
+}
+
+#title {
+	font-family:"Tw Cen MT";
+	font-size:24px;
+	font-weight:bold;
+}
+
+#text {
+	font-family:"Tw Cen MT";
+	font-size:24px;
+	font-weight:bold;
+}
+
+#titlebottom {
+	font-family:"Tw Cen MT";
+	font-size:12px;
+	font-weight:bold;
+}
+
+#login {
+	font-family: "Tw Cen MT";
+	font-size:15px;
+}
+
+#logfield {
+	border:1px solid #d4d4d4; 
+	background-color:#f6f6f6; 
+	height:20px; 
+	font-size:16px; 
+	font-family:'Tw Cen MT'; 
+	padding:5px 5px;	
+}
+
+#combofield {
+	border:1px solid #d4d4d4; 
+	background-color:#f6f6f6; 
+	font-size:16px; 
+	font-family:'Tw Cen MT'; 
+	padding:5px 0px;	
+}
+
+#logbutton {
+	border:1px solid #d4d4d4; 
+	padding:3px 10px; 
+	font-family:'Tw Cen MT'; 
+	font-size:15px;	
+}
+
+#content { 
+	padding: 10px; 
+	margin: 15px; 
+	border: 1px solid #ccc; 
+	width: 500px; 
+	background: #fafafa; 
+}
+
+#tabTh {
+	background-color: #636363;
+	color: #FFFFFF;
+	padding: 5px 5px;
+}
+
+#tabTd {
+	background-color: #ececec;
+	color: #000;
+	padding: 5px 5px;
+}
+
+#tabAltTd {
+	background-color: #d3d3d3;
+	color: #000;
+	padding: 5px 5px;
+}
+
+
